@@ -54,10 +54,15 @@ ${SENHA}    sua-senha
 .
 ├── tests/
 │   └── amazon_compra.robot
+
+
 ├── resources/
 │   └── keywords.robot
+
 ├── variables/
 │   └── variables.robot
+
+
 ├── requirements.txt
 └── README.md
 
