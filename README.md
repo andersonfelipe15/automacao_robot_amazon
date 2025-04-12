@@ -26,8 +26,8 @@ O teste simula um fluxo de compra de um livro, passando por todas as etapas até
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone (https://github.com/andersonfelipe15/automacao_robot_amazon.git
+   cd automacao_robot_amazon
 
 2- Instale as dependências:
 
